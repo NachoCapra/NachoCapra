@@ -4,7 +4,7 @@
 
 ## Sobre mí
 
-- 🔭 Actualmente estoy aprendiendo y practicando el desarrollo Full Stack.
+- 🔭 Actualmente estoy aprendiendo y practicando en el mundo del desarrollo, tanto FrontEnd, como BackEnd.
 - 🌱 Estoy buscando mi primera oportunidad laboral en el mundo del desarrollo web.
 - 💬 Estoy abierto a colaboraciones y siempre dispuesto a aprender de los demás.
 - ⚡ En mi tiempo libre, disfruto de la resolución de problemas y la creación de proyectos web.
@@ -21,7 +21,7 @@ He trabajado en varios proyectos utilizando tecnologías como HTML, CSS, Bootstr
 
 ## Contáctame
 
-Si estás interesado en mi perfil o quieres discutir oportunidades de colaboración, ¡no dudes en ponerte en contacto conmigo!
+Si estás interesado en mi perfil o quieres discutir oportunidades de colaboración, ¡ponete en contacto conmigo!
 
 - LinkedIn: [Ir a mi perfil de Linkedin](https://www.linkedin.com/in/juan-ignacio-capra-187610211/)
 - Correo electrónico: [Mi Correo Electronico](mugammas2@gmail.com)

@@ -23,8 +23,8 @@ He trabajado en varios proyectos utilizando tecnologías como HTML, CSS, Bootstr
 
 Si estás interesado en mi perfil o quieres discutir oportunidades de colaboración, ¡no dudes en ponerte en contacto conmigo!
 
-- LinkedIn: (https://www.linkedin.com/in/juan-ignacio-capra-187610211/)
-- Correo electrónico: [tuemail@example.com](mugammas2@gmail.com)
+- LinkedIn: [Ir a mi perfil de Linkedin](https://www.linkedin.com/in/juan-ignacio-capra-187610211/)
+- Correo electrónico: [Mi Correo Electronico](mugammas2@gmail.com)
 
 ¡Gracias por visitar mi perfil!
 
